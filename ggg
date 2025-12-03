@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header{
+            background-color: aqua;
+            color: white;
+        }
+        footer{
+            background-color: lightblue;
+            color:aqua;
+        }
+    </style>
+</head>
+<body>
+    <header>Магазин экологичных товаров для дома ждёт вас за покупками!</header>
+    <footer></footer>
+</body>
+</html>
